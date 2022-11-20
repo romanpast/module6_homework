@@ -1,4 +1,4 @@
-const isPrime(num) {
+const isPrime = (num) => {
     let prime = 'prime',
         composite = 'composite',
         error = 'Error: incorrect input, should be less than 1000',
